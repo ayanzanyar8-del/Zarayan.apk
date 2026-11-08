@@ -1,0 +1,7 @@
+{
+  "name": "شارۆچکەی زەڕایەن",
+  "description": "ئەپی فەرمی شارۆچکەی زەڕایەن - کاتەکانی بانگ، قورئان، زیکر، نوێژی مردوو، قیبلە، کەشوهەوا، نرخی دراو و ڕێبەری شوێنەکان",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
